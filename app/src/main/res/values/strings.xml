@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Messeri POS</string>
+    <string name="title_done">Done</string>
+    <string name="title_checkout">Checkout</string>
+    <string name="title_search">Search</string>
+    <string name="add_cart">Add Cart</string>
+    <string name="title_cart">Cart</string>
+    <string name="menu_update">Update Product</string>
+    <string name="menu_delete">Delete Product</string>
+    <string name="create_product">Create Product</string>
+    <string name="text_loading">Loading...</string>
+    <string name="title_methode">Methode Payments</string>
+
+    <string name="hint_product_name">Product Name</string>
+    <string name="hint_category">Category Name</string>
+    <string name="hint_quantity">0</string>
+    <string name="hint_price">Rp. xxx</string>
+    <string name="hint_description">Description</string>
+
+</resources>
